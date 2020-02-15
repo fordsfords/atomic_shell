@@ -37,6 +37,6 @@ munlock.sh /tmp/test.mutex $$
 
 Here's a summary of the tools:
 
-mlock.sh - lock a mutex file.
-munlock.sh - unlock a mutex file.
-nextint.sh - increment a counter within a range (with wrap).
+* mlock.sh - lock a mutex file.
+* munlock.sh - unlock a mutex file.
+* nextint.sh - increment a counter within a range (with wrap).
